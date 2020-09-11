@@ -1,5 +1,5 @@
 definition(
-    name: "Switch to Motion",
+    name: "switchtomotion",
     namespace: "bdfrost",
     author: "Brian D. Frost",
     description: "Ties motion detection to switch state",
